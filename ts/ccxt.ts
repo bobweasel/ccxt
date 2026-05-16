@@ -116,6 +116,7 @@ import hibachi from  './src/hibachi.js'
 import hitbtc from  './src/hitbtc.js'
 import hollaex from  './src/hollaex.js'
 import htx from  './src/htx.js'
+import ig from  './src/ig.js'
 import huobi from  './src/huobi.js'
 import hyperliquid from  './src/hyperliquid.js'
 import independentreserve from  './src/independentreserve.js'
@@ -311,6 +312,7 @@ const exchanges = {
     'hitbtc':                 hitbtc,
     'hollaex':                hollaex,
     'htx':                    htx,
+    'ig':                     ig,
     'huobi':                  huobi,
     'hyperliquid':            hyperliquid,
     'independentreserve':     independentreserve,
