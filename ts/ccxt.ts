@@ -129,6 +129,7 @@ import lbank from  './src/lbank.js'
 import lighter from  './src/lighter.js'
 import luno from  './src/luno.js'
 import mercado from  './src/mercado.js'
+import moomoo from  './src/moomoo.js'
 import mexc from  './src/mexc.js'
 import modetrade from  './src/modetrade.js'
 import myokx from  './src/myokx.js'
@@ -324,6 +325,7 @@ const exchanges = {
     'lighter':                lighter,
     'luno':                   luno,
     'mercado':                mercado,
+    'moomoo':                 moomoo,
     'mexc':                   mexc,
     'modetrade':              modetrade,
     'myokx':                  myokx,
