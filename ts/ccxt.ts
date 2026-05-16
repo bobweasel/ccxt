@@ -118,6 +118,7 @@ import hollaex from  './src/hollaex.js'
 import htx from  './src/htx.js'
 import huobi from  './src/huobi.js'
 import hyperliquid from  './src/hyperliquid.js'
+import ibkr from  './src/ibkr.js'
 import independentreserve from  './src/independentreserve.js'
 import indodax from  './src/indodax.js'
 import kraken from  './src/kraken.js'
@@ -313,6 +314,7 @@ const exchanges = {
     'htx':                    htx,
     'huobi':                  huobi,
     'hyperliquid':            hyperliquid,
+    'ibkr':                   ibkr,
     'independentreserve':     independentreserve,
     'indodax':                indodax,
     'kraken':                 kraken,
