@@ -116,8 +116,10 @@ import hibachi from  './src/hibachi.js'
 import hitbtc from  './src/hitbtc.js'
 import hollaex from  './src/hollaex.js'
 import htx from  './src/htx.js'
+import ig from  './src/ig.js'
 import huobi from  './src/huobi.js'
 import hyperliquid from  './src/hyperliquid.js'
+import ibkr from  './src/ibkr.js'
 import independentreserve from  './src/independentreserve.js'
 import indodax from  './src/indodax.js'
 import kraken from  './src/kraken.js'
@@ -129,6 +131,7 @@ import lbank from  './src/lbank.js'
 import lighter from  './src/lighter.js'
 import luno from  './src/luno.js'
 import mercado from  './src/mercado.js'
+import moomoo from  './src/moomoo.js'
 import mexc from  './src/mexc.js'
 import modetrade from  './src/modetrade.js'
 import myokx from  './src/myokx.js'
@@ -311,8 +314,10 @@ const exchanges = {
     'hitbtc':                 hitbtc,
     'hollaex':                hollaex,
     'htx':                    htx,
+    'ig':                     ig,
     'huobi':                  huobi,
     'hyperliquid':            hyperliquid,
+    'ibkr':                   ibkr,
     'independentreserve':     independentreserve,
     'indodax':                indodax,
     'kraken':                 kraken,
@@ -324,6 +329,7 @@ const exchanges = {
     'lighter':                lighter,
     'luno':                   luno,
     'mercado':                mercado,
+    'moomoo':                 moomoo,
     'mexc':                   mexc,
     'modetrade':              modetrade,
     'myokx':                  myokx,
